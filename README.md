@@ -5,7 +5,7 @@
 Me chamo **Marilza de Souza Santos**, tenho 30 anos e sou de Belo Horizonte - MG.  
 Sou formada em **Análise e Desenvolvimento de Sistemas (Estácio - 2024)** e apaixonada por tecnologia, sempre buscando evoluir e aplicar meus conhecimentos em soluções criativas e eficientes.  
 
-Atualmente, venho desenvolvendo projetos pessoais e acadêmicos com foco em **desenvolvimento web, mobile **, utilizando tecnologias modernas como **React Native, Flask, Python e SQL**.  
+Atualmente, venho desenvolvendo **projetos pessoais** com foco em **back-end e front-end**, criando **sistemas de pequeno porte e sites**, utilizando tecnologias como **Python, Flask, React, HTML , CSS , JavaScript e SQL**.
 
 📌 Busco uma oportunidade como **Desenvolvedora Júnior** para aplicar minhas habilidades e crescer profissionalmente.  
 
