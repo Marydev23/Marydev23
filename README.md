@@ -44,6 +44,13 @@ Atualmente, venho desenvolvendo **projetos pessoais** com foco em **back-end e f
 
 ### 🚀 Projetos de Destaque
 
+- **[Site Institucional]  (https://supervasos.com.br/)**
+  - Desenvolvido em HTML, CSS e JavaScript
+  - Layout responsivo para desktop e mobile
+  - Integração de formulário de contato e link direto para WhatsApp
+  - Organização de catálogo de produtos para melhor experiência do usuário
+
+
 - **[Sistema de Cadastro (Desktop com Python)]()**
   - Interface gráfica com Tkinter (layout GRID)
   - Banco de dados SQLite para armazenamento de dados
