@@ -1,42 +1,43 @@
 # 👩🏻‍💻 Marilza Santos
 
-**`Desenvolvedora Júnior`**
+**`Desenvolvedora Back-end Júnior`**
 
-Me chamo **Marilza de Souza Santos**, tenho 30 anos e sou de Belo Horizonte - MG.  
-Sou formada em **Análise e Desenvolvimento de Sistemas (Estácio - 2024)** e apaixonada por tecnologia, sempre buscando evoluir e aplicar meus conhecimentos em soluções criativas e eficientes.  
+Olá! 😄 Eu sou a **Marilza de Souza Santos**, de Belo Horizonte - MG.  
 
-Atualmente, venho desenvolvendo **projetos pessoais** com foco em **back-end e front-end**, criando **sistemas de pequeno porte e sites**, utilizando tecnologias como **Python, Flask, React, HTML , CSS , JavaScript e SQL**.
 
-📌 Busco uma oportunidade como **Desenvolvedora Júnior** para aplicar minhas habilidades e crescer profissionalmente.  
+Sou formada em **Análise e Desenvolvimento de Sistemas (Estácio - 2024)** e atualmente estou cursando **Pós-Graduação em Full Stack Development (FIAP - 2026)**.  
+
+Estou em **transição de carreira para a área de tecnologia**, trazendo comigo experiência anterior com rotinas administrativas e financeiras, o que contribui para uma visão prática na construção de sistemas e resolução de problemas.
+
+Tenho foco em **desenvolvimento back-end**, criando APIs, sistemas e automações com Python e banco de dados.
+---
+
+### 🚀 Tecnologias
+
+- 💻 Back-end: Python, Flask, APIs REST  
+- 🌐 Front-end: React Native, HTML, CSS, JavaScript  
+- 🗄️ Banco de Dados: SQLite, PostgreSQL  
+- ⚙️ Ferramentas: Git, GitHub, GitHub Pages  
+
+---
+
+### 📌 Objetivo
+
+Busco uma oportunidade como **Desenvolvedora Back-end Júnior**, onde eu possa contribuir no desenvolvimento de sistemas, APIs e soluções eficientes, enquanto continuo evoluindo profissionalmente.
+
+---
+
+### 📫 Contato
 
 <p align="left">
     <a href="https://github.com/Marydev23">
-        <img 
-            alt="Total de estrelas" 
-            title="Meus repositórios no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Marydev23?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Marydev23?tab=follaowers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Marydev23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github">
     </a>
     <a href="https://www.linkedin.com/in/marilzadesouza">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:marilzasantos152@gmail.com">
-        <img 
-            alt="Email" 
-            title="Entre em contato por email" 
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
+        <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 
@@ -44,28 +45,41 @@ Atualmente, venho desenvolvendo **projetos pessoais** com foco em **back-end e f
 
 ### 🚀 Projetos de Destaque
 
-- **[Site Institucional]  (https://supervasos.com.br/)**
-  - Desenvolvido em HTML, CSS e JavaScript
-  - Layout responsivo para desktop e mobile
-  - Integração de formulário de contato e link direto para WhatsApp
-  - Organização de catálogo de produtos para melhor experiência do usuário
+#### 🔹 ERP de Gestão de Caixa
+- Sistema completo de gestão financeira
+- API REST com Flask
+- CRUD de vendas, despesas e compras
+- Dashboard e relatórios financeiros
+- Integração front-end e back-end  
 
+🔗 https://github.com/Marydev23/ERP---Sistema-de-Caixa.git
 
-- **[Sistema de Cadastro (Desktop com Python)]()**
-  - Interface gráfica com Tkinter (layout GRID)
-  - Banco de dados SQLite para armazenamento de dados
+---
 
-- **[Aplicativo de Entregas para Condomínios (Mobile com IoT)]()**
-  - Desenvolvido em React Native + Flask + SQL
-  - Integração com Arduino, autenticação biométrica e IoT
-  - Notificações SMS via Twilio
-  - Controle e rastreabilidade de entregas
+#### 🔹 Aplicativo de Entregas para Condomínios
+- React Native + Flask + SQLite
+- Integração com IoT (Arduino)
+- Notificações SMS com Twilio
+- Controle e rastreamento de entregas  
+
+🔗 https://github.com/Marydev23/Projeto-Aplicativo-React.git
+
+---
+
+#### 🔹 Site Institucional
+- HTML, CSS e JavaScript
+- Layout responsivo
+- Catálogo de produtos e integração com WhatsApp  
+
+🌐 https://supervasos.com.br/  
+🔗 https://github.com/Marydev23/Site-SUPERVASOS
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
