@@ -1,69 +1,67 @@
-# 👩🏻‍💻 Marilza de Souza Santos
+<h1 align="center">Oi, eu sou a Marilza! 👋🏻</h1>
+<h3 align="center">construindo APIs, resolvendo problemas e aprendendo um pouco mais a cada commit</h3>
 
-**Desenvolvedora Back-end Júnior | Python e Node.js**
+```python
+class Marilza:
+    def __init__(self):
+        self.nome = "Marilza de Souza Santos"
+        self.local = "Belo Horizonte - MG"
+        self.foco = "Back-end com Python e Node.js"
+        self.formacao = ["ADS - Estácio (2024)", "Pós Full Stack - FIAP (cursando)"]
+        self.curiosidade = "trocaria uma noite de sono por um bug resolvido"
 
-Olá! 😄 Sou de Belo Horizonte – MG, formada em Análise e Desenvolvimento de Sistemas (Estácio, 2024) e pós-graduanda em Full Stack Development (FIAP).
+    def hobbies(self):
+        return ["abrir o terminal só para ver se ainda gosto disso (gosto)",
+                "refatorar código que já funcionava",
+                "aprender a próxima tecnologia da lista"]
+```
 
-Venho de 11 anos de rotinas administrativas e financeiras, o que me dá uma visão prática de negócio na hora de construir sistemas e resolver problemas. Hoje meu foco é o back-end: APIs REST, bancos de dados e automações com Python e Node.js.
-
-Estou em busca da minha primeira oportunidade como desenvolvedora back-end, para contribuir com sistemas, APIs e soluções eficientes e continuar evoluindo.
-
----
-
-## 🚀 Tecnologias
-
-- 💻 **Back-end:** Python (Flask), Node.js (Express), APIs REST
-- 🌐 **Front-end:** React, React Native, HTML, CSS, JavaScript
-- 🗄️ **Bancos de dados:** PostgreSQL, MongoDB, SQLite
-- ⚙️ **Ferramentas:** Git, GitHub, Docker, CI/CD
-
----
-
-## 📌 Projetos em destaque
-
-### 🔹 ERP – Sistema de Gestão de Caixa
-Python, Flask, React e SQLite
-
-- API REST com mais de 25 endpoints e CRUD de receitas, despesas, funcionários, produtos e orçamentos
-- Cálculo automático de taxas de cartão e vencimento de boletos
-- Dashboard com gráficos e geração de relatórios e orçamentos em PDF
-
-🔗 [Ver repositório](https://github.com/Marydev23/ERP---Sistema-de-Caixa)
-
-### 🔹 Sistema de Gestão de Empresas
-Python, Tkinter e PostgreSQL
-
-- CRUD de empresas com busca por CNPJ ou razão social
-- Banco relacional com 7 tabelas e padrão DAO
-
-🔗 [Ver repositório](https://github.com/Marydev23/sistema-gestao-empresas)
-
-### 🔹 Aplicativo de Entregas para Condomínios
-React Native, Flask e SQLite
-
-- Integração com IoT (Arduino)
-- Notificações por SMS com Twilio
-- Controle e rastreamento de entregas
-
-🔗 [Ver repositório](https://github.com/Marydev23/Projeto-Aplicativo-React)
-
-### 🔹 EducaBlog (projeto da pós, em desenvolvimento)
-Node.js, Express, MongoDB, Docker e CI/CD
-
-- API REST para publicação de conteúdos educacionais, com autenticação de usuários
-- Containerização com Docker, pipeline de CI/CD e deploy no Render
-
-### 🔹 Site Institucional Super Vasos
-HTML, CSS e JavaScript
-
-- Layout responsivo com catálogo de produtos
-- Contato por WhatsApp e formulário
-
-🌐 [Site no ar](https://supervasos.com.br/) · 🔗 [Ver repositório](https://github.com/Marydev23/Site-SUPERVASOS)
+Comecei a programar sem saber que ia gostar tanto disso. Hoje é o que mais me dá vontade de acordar cedo pra estudar antes do café.
+Curto entender como as coisas funcionam por baixo, então cavo fundo até achar o porquê de um erro — e depois compartilho a solução para alguém não perder o mesmo tempo que eu perdi.
 
 ---
 
-## 📫 Contato
+### 🧰 Na caixa de ferramentas
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marilzadesouza)
-- ✉️ marilzasantos152@gmail.com
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ O que já construí
+
+**[ERP – Sistema de Gestão de Caixa](https://github.com/Marydev23/ERP---Sistema-de-Caixa)**
+Um ERP financeiro do zero: API com mais de 25 endpoints, cálculo automático de taxa de cartão e boleto, dashboard com gráficos e orçamentos em PDF. O projeto que mais me ensinou sobre modelar um banco de dados de verdade.
+`Python` `Flask` `React` `SQLite`
+
+**[Sistema de Gestão de Empresas](https://github.com/Marydev23/sistema-gestao-empresas)**
+Desktop com Tkinter e um banco PostgreSQL de 7 tabelas relacionadas, organizado em camadas (padrão DAO) para separar interface e acesso a dados.
+`Python` `Tkinter` `PostgreSQL`
+
+**[Aplicativo de Entregas para Condomínios](https://github.com/Marydev23/Projeto-Aplicativo-React)**
+Meu mergulho em hardware: app com React Native conversando com um Arduino e disparando SMS pela Twilio para rastrear entregas.
+`React Native` `Flask` `SQLite` `IoT`
+
+**EducaBlog** — projeto em desenvolvimento na pós da FIAP, uma API para blog educacional com autenticação, Docker e deploy automatizado.
+`Node.js` `Express` `MongoDB` `Docker` `CI/CD`
+
+**[Site Super Vasos](https://supervasos.com.br/)** — meu lado front-end: site institucional no ar, com catálogo de produtos e contato por WhatsApp.
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 🎯 O que eu procuro
+
+Uma vaga de **Desenvolvedora Back-end Júnior** onde eu possa colocar a mão na massa em APIs de verdade, aprender com gente mais experiente e continuar essa vontade de entender como tudo funciona por dentro.
+
+📫 [LinkedIn](https://www.linkedin.com/in/marilzadesouza) · ✉️ marilzasantos152@gmail.com
