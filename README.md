@@ -52,8 +52,6 @@ Desktop com Tkinter e um banco PostgreSQL de 7 tabelas relacionadas, organizado 
 Meu mergulho em hardware: app com React Native conversando com um Arduino e disparando SMS pela Twilio para rastrear entregas.
 `React Native` `Flask` `SQLite` `IoT`
 
-**EducaBlog** — projeto em desenvolvimento na pós da FIAP, uma API para blog educacional com autenticação, Docker e deploy automatizado.
-`Node.js` `Express` `MongoDB` `Docker` `CI/CD`
 
 **[Site Super Vasos](https://supervasos.com.br/)** — meu lado front-end: site institucional no ar, com catálogo de produtos e contato por WhatsApp.
 `HTML` `CSS` `JavaScript`
